@@ -6,7 +6,7 @@
 Project in ICT @ KTH
 - APRIL 2024 to MAY 2024
 - Developed a VR horror game using Unity game engine, heading a team of eight highly motivated developers.
-- [Publication](https://saitejaschintapall.wixsite.com/ghostleaks) 
+- [Check it out here!](https://saitejaschintapall.wixsite.com/ghostleaks) 
 
 Amateur Game Development @ KTH 
 - JANUARY 2024 to MARCH 2024 
