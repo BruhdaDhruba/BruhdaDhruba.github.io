@@ -6,8 +6,9 @@
 Project in ICT @ KTH
 - APRIL 2024 to MAY 2024
 - Developed a VR horror game using Unity game engine, working in a team of eight highly motivated developers.
-- Responsible for models & textures (creating the prefabs/models used in the game, ranging from the furniture to the walls)
-- No two playthroughs are the same! *We* has created an intricate algorithm to randomly generate the maps!
+- Responsible for models & textures (creating the prefabs/models used in the game)
+- Culmination of our ideas into one must-play game!
+- No two playthroughs are the same! *We* have created an intricate algorithm to randomly generate the maps!
 - [Check it out here!](https://saitejaschintapall.wixsite.com/ghostleaks) 
 
 Amateur Game Development @ KTH 
